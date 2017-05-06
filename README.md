@@ -1,0 +1,2 @@
+# PERFORMANCE-ANALYSIS-OF-WEB-SERVICE-USING-HADOOP-AND-MYSQL
+Due to extensive popularity of web services data in the network has been increasingly on daily basis. So uddi becomes difficult to process the web services when getting huge request from customer.Due to this performance degrades.Larger data comes under big data problem .So using hadoop ecosystem we are process the web services to over come the problem in existing uddi. Here we are doing comparative analysis so we are also process them using mysql.
